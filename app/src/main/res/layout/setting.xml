@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include layout="@layout/header"/>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="70.0dip"
+        android:layout_marginLeft="10.0dip"
+        android:layout_marginRight="10.0dip"
+        android:layout_marginTop="20.0dip"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="采集日志"
+            android:textColor="@android:color/black" />
+        <CheckBox
+            android:id="@+id/check"
+            android:background="@drawable/checkbox_background"
+            android:button="@drawable/check_selector"
+            android:checked="true"
+            android:gravity="center|right"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    <Button
+        android:id="@+id/clear"
+        android:background="@drawable/bigred"
+        android:text="clear"
+        android:textColor="@color/white"
+        android:layout_width="100dp"
+        android:layout_height="30dp" />
+</LinearLayout>

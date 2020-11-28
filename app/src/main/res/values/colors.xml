@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="tabColorNormal">#ABABAB</color>
+    <color name="tabColorSelected">@color/colorPrimary</color>
+    <color name="text_main_tab_nor">#666666</color>
+    <color name="text_main_tab_pre">#F02051</color>
+
+    <color name="frg_home_hot_tab_nor">#2B2B2B</color>
+    <color name="frg_home_hot_tab_pre">#F01E50</color>
+
+    <color name="tabSelectedTextColor">#fff01e50</color>
+    <color name="tabSelectedTextColor1">#ffffff</color>
+    <color name="white">#ffffff</color>
+    <color name="product_item">#ffdddddd</color>
+    <color name="navpage">#FFE1E8EB</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="windowBackground">#ffeeeeee</color>
+    <color name="windowBackground_light">#55000000</color>
+
+    <color name="text_major">#ff666666</color>
+    <color name="input_hint">#ffc1c1c1</color>
+
+    <color name="chongzhi">#ff999999</color>
+
+    <color name="lightgrey">#ffd3d3d3</color>
+    <color name="tabSelectedTextColorDark">#ffb9013c</color>
+
+    <color name="blue">#ff0000ff</color>
+    <!--顶部颜色-->
+    <color name="all_top_color">#fb2c1b</color>
+
+
+
+    <color name="indicator_red">#FF0033</color>
+    <color name="indicator_white">#FFFFFF</color>
+
+    <!-- 自定义dialog -->
+    <color name="dialog_divider">#d4d4d4</color>
+    <color name="dialog_text">#000000</color>
+    <color name="dialog_btn_bg">#0a000000</color>
+
+    <color name="halftransparent">#7f000000</color>
+
+    <color name="grey">#e8e8e8</color>
+    <color name="medium_grey">#e1e1e1</color>
+    <color name="darkest_grey">#4C4B4B</color>
+    <color name="list_grey">#f4efeb</color>
+    <color name="red">#ff0000</color>
+    <color name="orangered">#ff4500</color>
+    <color name="green">#ff008080</color>
+    <color name="black">#000000</color>
+    <color name="white_grey">#ECECEC</color>
+
+    <color name="palegreen">#98FB98</color>
+    <color name="lightgreen">#90EE90</color>
+    <color name="darkgreen">#006400</color>
+    <color name="turquoise">#40E0D0</color>
+    <color name="limegreen">#00FF00</color>
+
+    <color name="lavenderblush">#e6d7c0</color>
+    <color name="titlehead">#f3e4cf</color>
+    <color name="loginbg">#d2cabd</color>
+    <color name="ivory">#F7d8a9</color>
+    <color name="fuchsia">#FF00FF</color> <!-- 紫红色 -->
+    <color name="pink">#FFC0CB</color>
+    <color name="tomato">#FF6347</color> <!-- 西红柿色 -->
+    <color name="lightyellow">#FFFFE0</color> <!-- 亮黄色 -->
+    <color name="bisque">#FFE4C4</color> <!-- 桔黄色 -->
+    <color name="yellow">#FFFF00</color> <!-- 黄色 -->
+    <color name="lawngreen">#7CFC00</color> <!-- 草绿色 -->
+    <color name="darkblue">#00008B</color> <!-- 暗蓝色 -->
+    <color name="purple">#800080</color> <!-- 紫色 -->
+    <color name="khaki">#F0E68C</color> <!-- 黄褐色 -->
+    <color name="peachpuff">#FFDAB9</color> <!-- 桃色 -->
+    <color name="aqua">#00FFFF</color> <!-- 浅绿色 -->
+    <color name="lightpink">#FFB6C1</color> <!-- 亮粉红色 -->
+    <color name="nearly_white">#f6f6f6</color>
+    <color name="headerbg">#ff6b6d</color>
+    <item name="tab_radiobutton_text_color_checked" type="color">@color/heightlight_color_pink</item>
+    <color name="listitem_transparent">#00000000</color>
+    <color name="listitem_black">#ff000000</color>
+    <color name="listitem_white">#ffffffff</color>
+    <color name="listitem_blue">#0e5986</color>
+    <color name="listitem_gray">#ff9da19e</color>
+    <color name="listitem_green">#ffe3ffc6</color>
+    <color name="listitem_greenyellow">#ff87b869</color>
+    <color name="listitem_yellow">#fffaffbf</color>
+    <color name="tab_radiobutton_text_color_normal">#ff83797c</color>
+    <color name="tabtextcolor">#4a9acf</color>
+    <color name="heightlight_color_pink">#ffff5b91</color>
+    <color name="opinionbg">#e8e8e8</color>
+    <color name="opinionseletebg">#6c6c6c</color>
+    <color name="searchbg">#d1d1d1</color>
+
+    <color name="result_text">#ffffffff</color>
+    <color name="result_view">#b0000000</color>
+
+    <color name="appblue">#ff1db9f2</color>
+    <color name="appbg">#ffecedf1</color>
+    <color name="dividerbg">#ff585452</color>
+
+    <color name="main_bg">#2C3941</color>
+
+    <!--顶部颜色-->
+
+    <color name="textcolor">#585858</color>
+    <color name="helpbg">#fff8f8f8</color>
+    <color name="helptextcolor">#232323</color>
+    <color name="divider">#ddd</color>
+    <color name="ready">#1fe598</color>
+    <color name="nonet">#ff407f</color>
+    <color name="startcolor">#197bd9</color>
+    <color name="endcolor">#1c87f2</color>
+    <color name="startcolor2">#228bff</color>
+    <color name="endcolor2">#22ffa9</color>
+    <color name="textstartcolor">#ecf5ff</color>
+    <color name="textendcolor">#648399</color>
+    <color name="roundbg">#344763</color>
+    <color name="giveup">#585858</color>
+    <color name="stableinfo">#22ffa9</color>
+
+
+
+</resources>

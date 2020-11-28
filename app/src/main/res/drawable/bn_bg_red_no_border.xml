@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/product_item" android:state_selected="true" />
+    <item android:state_pressed="true">
+        <shape xmlns:android="http://schemas.android.com/apk/res/android">
+            <solid android:angle="270.0" android:color="#ffb9013c" />
+            <corners android:radius="5.0dip" />
+            <padding android:left="5dp" android:right="5dp"></padding>
+        </shape>
+    </item>
+    <item>
+        <shape xmlns:android="http://schemas.android.com/apk/res/android">
+            <solid android:angle="270.0" android:color="#fff01e50" />
+            <corners android:radius="5.0dip" />
+            <padding android:left="5dp" android:right="5dp"></padding>
+        </shape>
+    </item>
+</selector>
